@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+   <qresource>
+      <file alias="n">resources/n.png</file>
+      <file alias="0">resources/0.png</file>
+      <file alias="1">resources/1.png</file>
+      <file alias="2">resources/2.png</file>
+      <file alias="3">resources/3.png</file>
+      <file alias="4">resources/4.png</file>
+      <file alias="5">resources/5.png</file>
+      <file alias="6">resources/6.png</file>
+      <file alias="7">resources/7.png</file>
+      <file alias="8">resources/8.png</file>
+      <file alias="9">resources/9.png</file>
+      <file alias="10">resources/10.png</file>
+      <file alias="11">resources/11.png</file>
+      <file alias="12">resources/12.png</file>
+      <file alias="13">resources/13.png</file>
+      <file alias="14">resources/14.png</file>
+      <file alias="15">resources/15.png</file>
+   </qresource>
+</RCC>
